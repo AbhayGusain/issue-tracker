@@ -172,7 +172,7 @@ ng serve
 
 Frontend will be available at: http://localhost:4200
 
-## 🎯 Sample Data
+### 🎯 Sample Data
 
 The application starts with three sample issues to demonstrate different states:
 - **🐛 Bug Report**: High priority, open status - "Login fails on Safari"
@@ -181,7 +181,38 @@ The application starts with three sample issues to demonstrate different states:
 
 ## 🤝 Contributing
 
-Contributions are welcomed!
+contributions are welcomed! Here's how you can help:
+
+1. **🍴 Fork the repository**
+2. **🌿 Create a feature branch**: `git checkout -b feature/amazing-feature`
+3. **💻 Make your changes** and test thoroughly
+4. **📝 Commit your changes**: `git commit -m 'Add amazing feature'`
+5. **🚀 Push to your branch**: `git push origin feature/amazing-feature`
+6. **🔄 Submit a Pull Request**
+
+### 📋 Development Guidelines
+- Follow existing code style and conventions
+- Add tests for new features
+- Update documentation as needed
+- Ensure all tests pass before submitting
+
+## 🌐 Deployment Options
+
+### Backend Deployment
+| Platform | Difficulty | Cost | Notes |
+|----------|------------|------|-------|
+| **[Railway](https://railway.app/)** | Easy | Free tier | Auto-detects Python, great for beginners |
+| **[Render](https://render.com/)** | Easy | Free tier | Simple setup, good documentation |
+| **[Heroku](https://heroku.com/)** | Medium | Free tier limited | Classic choice, more configuration |
+| **[DigitalOcean](https://digitalocean.com/)** | Advanced | Paid | Full control, requires server management |
+
+### Frontend Deployment
+| Platform | Difficulty | Cost | Notes |
+|----------|------------|------|-------|
+| **[Netlify](https://netlify.com/)** | Easy | Free | Best for static sites, great CI/CD |
+| **[Vercel](https://vercel.com/)** | Easy | Free | Optimized for frameworks, excellent performance |
+| **[GitHub Pages](https://pages.github.com/)** | Easy | Free | Simple GitHub integration |
+| **[Firebase Hosting](https://firebase.google.com/)** | Medium | Free tier | Google's platform, good for scaling |
 
 ## 📊 Project Statistics
 
@@ -206,8 +237,6 @@ This project demonstrates:
 ## 📄 License
 
 This project is open source and available under the **MIT License**.
-
-
 
 ---
 
