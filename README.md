@@ -183,8 +183,6 @@ The application starts with three sample issues to demonstrate different states:
 
 Contributions are welcomed!
 
-
-
 ## 📊 Project Statistics
 
 - **Lines of Code**: ~1,200+
