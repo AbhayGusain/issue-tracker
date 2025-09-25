@@ -172,46 +172,7 @@ ng serve
 
 Frontend will be available at: http://localhost:4200
 
-## 💡 Usage Guide
-
-### 🎮 User Interface Features
-
-1. **📋 Browse Issues**
-   - View all issues in a clean, sortable table
-   - See issue ID, title, status, priority, assignee, and last update time
-
-2. **🔍 Search & Filter**
-   - **Search**: Type in the search box to find issues by title (real-time)
-   - **Status Filter**: Filter by `open`, `in_progress`, or `closed`
-   - **Priority Filter**: Filter by `low`, `medium`, or `high`
-   - **Assignee Filter**: Filter by specific team member
-
-3. **📊 Sorting**
-   - Click any column header to sort
-   - Click again to reverse sort order
-   - Sort by: ID, title, status, priority, assignee, creation date, or update date
-
-4. **➕ Create New Issue**
-   - Click "Create Issue" button
-   - Fill in title, description, status, priority, and assignee
-   - Submit to add to the issue list
-
-5. **✏️ Edit Existing Issue**
-   - Click "Edit" button on any issue row
-   - Modify any field and save changes
-   - Updates are reflected immediately
-
-6. **👁️ View Issue Details**
-   - Click anywhere on an issue row (except the Edit button)
-   - View complete issue information in JSON format
-   - Navigate back to the main list
-
-7. **📄 Pagination**
-   - Navigate through pages with Previous/Next buttons
-   - Adjust page size (5, 10, 20, or 50 items per page)
-   - See current page and total pages
-
-### 🎯 Sample Data
+## 🎯 Sample Data
 
 The application starts with three sample issues to demonstrate different states:
 - **🐛 Bug Report**: High priority, open status - "Login fails on Safari"
@@ -220,38 +181,9 @@ The application starts with three sample issues to demonstrate different states:
 
 ## 🤝 Contributing
 
-We welcome contributions! Here's how you can help:
+Contributions are welcomed!
 
-1. **🍴 Fork the repository**
-2. **🌿 Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **💻 Make your changes** and test thoroughly
-4. **📝 Commit your changes**: `git commit -m 'Add amazing feature'`
-5. **🚀 Push to your branch**: `git push origin feature/amazing-feature`
-6. **🔄 Submit a Pull Request**
 
-### 📋 Development Guidelines
-- Follow existing code style and conventions
-- Add tests for new features
-- Update documentation as needed
-- Ensure all tests pass before submitting
-
-## 🌐 Deployment Options
-
-### Backend Deployment
-| Platform | Difficulty | Cost | Notes |
-|----------|------------|------|-------|
-| **[Railway](https://railway.app/)** | Easy | Free tier | Auto-detects Python, great for beginners |
-| **[Render](https://render.com/)** | Easy | Free tier | Simple setup, good documentation |
-| **[Heroku](https://heroku.com/)** | Medium | Free tier limited | Classic choice, more configuration |
-| **[DigitalOcean](https://digitalocean.com/)** | Advanced | Paid | Full control, requires server management |
-
-### Frontend Deployment
-| Platform | Difficulty | Cost | Notes |
-|----------|------------|------|-------|
-| **[Netlify](https://netlify.com/)** | Easy | Free | Best for static sites, great CI/CD |
-| **[Vercel](https://vercel.com/)** | Easy | Free | Optimized for frameworks, excellent performance |
-| **[GitHub Pages](https://pages.github.com/)** | Easy | Free | Simple GitHub integration |
-| **[Firebase Hosting](https://firebase.google.com/)** | Medium | Free tier | Google's platform, good for scaling |
 
 ## 📊 Project Statistics
 
@@ -277,12 +209,7 @@ This project demonstrates:
 
 This project is open source and available under the **MIT License**.
 
-## 🙏 Acknowledgments
 
-- **FastAPI** team for the amazing web framework
-- **Angular** team for the powerful frontend framework  
-- **Python** and **TypeScript** communities for excellent tooling
-- Open source contributors who make projects like this possible
 
 ---
 
