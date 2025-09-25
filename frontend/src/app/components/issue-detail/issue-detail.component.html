@@ -1,0 +1,13 @@
+<div class="header">
+  <div>
+    <a routerLink="/">← Back</a>
+  </div>
+</div>
+
+<div *ngIf="loading">Loading...</div>
+<div *ngIf="error">{{ error }}</div>
+
+<div *ngIf="issue">
+  <h3>Issue #{{ issue.id }} — {{ issue.title }}</h3>
+  <pre class="json">{{ issue | json }}</pre>
+</div>

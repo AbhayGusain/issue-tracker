@@ -1,0 +1,15 @@
+.card {
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.clickable-row {
+  cursor: pointer;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
